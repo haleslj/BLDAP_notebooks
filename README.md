@@ -9,8 +9,10 @@ My additions are not limited but include:
 -The addition of all "Good Coding Practice Moments"
 -Any mentions of "the game" (see note below)
 
+
 The Game
-Know that many of the students would struggle with understanding the purpose of later topics such as functions and loops, I started the unit with an in person game. The instructions of are included in the PDF "Intro to coding activity.pdf". The basic idea is that a team of students has to direct one member of the team through a maze, pick up a ping-pong ball, and bring the member back. The trick is that the team is limited to 6 possible commands i.e. they can say turn right, but there is no turn left option.
+
+Knowing that many of the students would struggle with understanding the purpose of later topics such as functions and loops, I started the unit with an in person game. The instructions of are included in the PDF "Intro to coding activity.pdf". The basic idea is that a team of students has to direct one member of the team through a maze, pick up a ping-pong ball, and bring the member back. The trick is that the team is limited to 6 possible commands i.e. they can say turn right, but there is no turn left option.
 
 
 
