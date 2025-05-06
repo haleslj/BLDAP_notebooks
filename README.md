@@ -10,9 +10,8 @@ My additions are not limited but include:
 -Any mentions of "the game" (see note below)
 
 
-The Game
-
-Knowing that many of the students would struggle with understanding the purpose of later topics such as functions and loops, I started the unit with an in person game. The instructions of are included in the PDF "Intro to coding activity.pdf". The basic idea is that a team of students has to direct one member of the team through a maze, pick up a ping-pong ball, and bring the member back. The trick is that the team is limited to 6 possible commands i.e. they can say turn right, but there is no turn left option.
+The Game - Knowing that many of the students would struggle with understanding the purpose of later topics such as functions and loops, I started the unit with an in person game. The instructions of are included in the PDF "Intro to coding activity.pdf". The basic idea is that a team of students has to direct one member of the team through a maze, pick up a ping-pong ball, and bring the member back. The trick is that the team is limited to 6 possible commands i.e. they can say turn right, but there is no turn left option. While this game was done in person, several similar virtual games exist and are often used to teach beginning programming. 
+Throughout the series of notebooks, refereneces are made to this game and students are eventually able to create a virtual version of this game that runs for itself. 
 
 
 
