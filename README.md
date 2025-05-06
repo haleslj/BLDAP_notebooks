@@ -1,8 +1,8 @@
 # BLDAP_notebooks
 Teaching Notebooks used for the Director's Apprenticeship Program at Berkley National Labs (any use of student names have been changed).
-While most of these notebooks are designed for standalone use, they were used in a classroom setting where students could ask questions or work together.
+While most of these notebooks can be used for standalone use, they were used in a classroom setting where students could ask questions or work together, and there are occasional instructions to work as a group.
 
-I was the fourth in a line of instructors who iterated on these notebooks, so the choice of content is not my own and a few of the examples are not mine, but I did make significant changes to the explanations and the problems.
+I was the fourth in a line of instructors who iterated on these notebooks, so the choice of content is not my own and a few of the examples are not mine and problems, but I did make significant changes to the explanations and the problems. The goal of my edits was to make the notebooks more relatable to the user. 
 
 My additions are not limited but include: 
 -Improved the instructions. Any instructions with color-coded were added by me. 
